@@ -1,0 +1,5 @@
+i = 0
+d = ['q', 'w', 'e', 'r', 't', 'y']
+while i != len(d):
+     print(d[i])
+     i+=1

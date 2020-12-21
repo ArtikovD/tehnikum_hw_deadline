@@ -1,0 +1,9 @@
+x = []
+y = -1
+z = ('Type a number')
+
+while y!=0:
+    print (z)
+    y = int(input())
+    x.append (y)
+print (sum(x))
